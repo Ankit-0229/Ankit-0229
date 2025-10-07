@@ -8,10 +8,10 @@ On my GitHub, you’ll find projects where I clean, analyze, and visualize raw d
 ---
 
 ## 🔍 What I Do  
-- 🧹 **Clean messy datasets** into analysis-ready formats  
-- 📊 **Explore & analyze** trends using SQL & Python  
-- 📈 **Build dashboards** in Power BI & Excel that bring insights to life  
-- 🧠 Continuously learning advanced **analytics & ML basics**  
+-  **Clean messy datasets** into analysis-ready formats  
+-  **Explore & analyze** trends using SQL & Python  
+-  **Build dashboards** in Power BI & Excel that bring insights to life  
+-  Continuously learning advanced **analytics & ML basics**  
 
 ---
 
@@ -51,9 +51,9 @@ On my GitHub, you’ll find projects where I clean, analyze, and visualize raw d
 ## 🌐 Let’s Connect  
 
  **Email:** [ay9214885621@gmail.com](mailto:ay9214885621@gmail.com)  
- **LinkedIn:** [linkedin.com/in/ankit-yadav-0229](https://linkedin.com/in/ankit-yadav-0229)  
+ **LinkedIn:** [linkedin.com/in/ankit-yadav-0229](https://linkedin.com/in/ankit-yadav-data)  
  **GitHub:** [github.com/Ankit-0229](https://github.com/Ankit-0229)  
 
 ---
 
-✨ *“Numbers don’t lie, but they need someone to speak for them. I turn data into that voice.”*  
+*“Numbers don’t lie, but they need someone to speak for them. I turn data into that voice.”*  
