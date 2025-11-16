@@ -1,4 +1,4 @@
-# Hey👋, I'm Ankit Kumar Yadav  
+# Hey , I'm Ankit Kumar Yadav  
 
 💡 **Data Analyst in the making | SQL • Python • Power BI • Excel**  
 
