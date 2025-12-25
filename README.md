@@ -3,7 +3,7 @@
 💡 **Data Analyst in the making | SQL • Python • Power BI • Excel**  
 
 I believe *data is more than just numbers — it’s a story waiting to be told.*  
-On my GitHub, you’ll find projects where I clean, analyze, and visualize raw datasets into **actionable insights** that can drive smarter decisions.  
+On my GitHub, you’ll find projects where I clean, analyze, and visualize raw datasets into **sensible insights** that can drive smarter decisions.  
 
 ---
 
